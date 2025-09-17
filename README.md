@@ -31,3 +31,26 @@ Web3 learn task
     56. 合并区间【mergeArr.go】-------这个题目需要再次打磨
         以数组 intervals 表示若干个区间的集合，其中单个区间为 intervals[i] = [starti, endi] 。
         请你合并所有重叠的区间，并返回 一个不重叠的区间数组，该数组需恰好覆盖输入中的所有区间 。
+
+# task2
+    【Voting.sol】
+    ✅ 创建一个名为Voting的合约，包含以下功能：
+    一个mapping来存储候选人的得票数
+    一个vote函数，允许用户投票给某个候选人
+    一个getVotes函数，返回某个候选人的得票数
+    一个resetVotes函数，重置所有候选人的得票数
+
+    【ReverseString.sol】
+    ✅ 反转字符串 (Reverse String)
+    题目描述：反转一个字符串。输入 "abcde"，输出 "edcba"
+
+    【RomanToInt.sol】
+    ✅ 用solidity实现整数转罗马数字
+
+    【MergeArray.sol】
+    ✅ 合并两个有序数组 (Merge Sorted Array)
+    题目描述：将两个有序数组合并为一个有序数组。
+
+    【BinarySearch.sol】
+    二分查找 (Binary Search)
+    题目描述：在一个有序数组中查找目标值。
