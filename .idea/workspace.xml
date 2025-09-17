@@ -5,6 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db44c530-9a77-4f87-9f1f-9ea8950eb0d5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/task2/goroutiner.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/pointer.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
