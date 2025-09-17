@@ -5,13 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db44c530-9a77-4f87-9f1f-9ea8950eb0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task1/test.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/BinarySearch.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/MergeArray.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/ReverseString.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/RomanToInt.sol" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/Voting.sol" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
