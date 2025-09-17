@@ -28,6 +28,6 @@ Web3 learn task
         更改数组 nums ，使 nums 的前 k 个元素包含唯一元素，并按照它们最初在 nums 中出现的顺序排列。nums 的其余元素与 nums 的大小不重要。
         返回 k 。
 
-    56. 合并区间【mergeArr.go】
+    56. 合并区间【mergeArr.go】-------这个题目需要再次打磨
         以数组 intervals 表示若干个区间的集合，其中单个区间为 intervals[i] = [starti, endi] 。
         请你合并所有重叠的区间，并返回 一个不重叠的区间数组，该数组需恰好覆盖输入中的所有区间 。
