@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db44c530-9a77-4f87-9f1f-9ea8950eb0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task2/person.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/scheduler.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task2/shape.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/atomic.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/bufferChannel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/channel.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task2/mutex.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
