@@ -1,0 +1,15 @@
+server:
+  port: 80
+
+database:
+  host: 127.0.0.1
+  port: 3366
+  user: root
+  password: lu1314520
+  name: blog
+
+redis:
+  host: 127.0.0.1
+  port: 6379
+  password: ""
+  db: 0

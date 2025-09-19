@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db44c530-9a77-4f87-9f1f-9ea8950eb0d5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/task3/books.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/curd.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/employees.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/hook.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/model.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/relevantQuery.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/task3/transaction.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task3/hook.go" beforeDir="false" afterPath="$PROJECT_DIR$/task3/hook.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +46,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "E:/goworkspace/dapp-goeth",
+    "last_opened_file_path": "E:/task/task4/blog-project",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
