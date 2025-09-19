@@ -9,10 +9,10 @@ import (
 	"time"
 )
 
-var BOOKSTORE_SECRET_KEY = "1234567890"
+var SECRET_KEY = "1234567890"
 
 // jwtSecret JWT密钥(建议通过配置文件或环境变量设置)
-var jwtSecret = []byte(BOOKSTORE_SECRET_KEY)
+var jwtSecret = []byte(SECRET_KEY)
 
 const (
 	// AccessTokenExpire 访问token过期时间
