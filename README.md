@@ -108,26 +108,11 @@ Web3 learn task
     为 Post 模型添加一个钩子函数，在文章创建时自动更新用户的文章数量统计字段。
     为 Comment 模型添加一个钩子函数，在评论删除时检查文章的评论数量，如果评论数量为 0，则更新文章的评论状态为 "无评论"。
 
+# task4 Solidity智能合约基础
+    本次作业要求你使用 Go 语言结合 Gin 框架和 GORM 库开发一个个人博客系统的后端，实现博客文章的基本管理功能，包括文章的创建、读取、更新和删除（CRUD）操作，
+    同时支持用户认证和简单的评论功能
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# task...
+# task5 Solidity智能合约基础
     【Voting.sol】
     ✅ 创建一个名为Voting的合约，包含以下功能：
     一个mapping来存储候选人的得票数
@@ -149,3 +134,17 @@ Web3 learn task
     【BinarySearch.sol】
     二分查找 (Binary Search)
     题目描述：在一个有序数组中查找目标值。
+
+# task6 Solidity 编程进阶
+    ✅ 作业 1：ERC20 代币【Erc20Contract.sol】
+    任务：参考 openzeppelin-contracts/contracts/token/ERC20/IERC20.sol实现一个简单的 ERC20 代币合约。要求：
+    合约包含以下标准 ERC20 功能：
+    balanceOf：查询账户余额。
+    transfer：转账。
+    approve 和 transferFrom：授权和代扣转账。
+    使用 event 记录转账和授权操作。
+    提供 mint 函数，允许合约所有者增发代币。
+    提示：
+    使用 mapping 存储账户余额和授权信息。
+    使用 event 定义 Transfer 和 Approval 事件。
+    部署到sepolia 测试网，导入到自己的钱包

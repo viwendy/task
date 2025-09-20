@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="db44c530-9a77-4f87-9f1f-9ea8950eb0d5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/task3/hook.go" beforeDir="false" afterPath="$PROJECT_DIR$/task3/hook.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task6/Erc20Contract.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task--/BinarySearch.sol" beforeDir="false" afterPath="$PROJECT_DIR$/task5/BinarySearch.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task--/MergeArray.sol" beforeDir="false" afterPath="$PROJECT_DIR$/task5/MergeArray.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task--/ReverseString.sol" beforeDir="false" afterPath="$PROJECT_DIR$/task5/ReverseString.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task--/RomanToInt.sol" beforeDir="false" afterPath="$PROJECT_DIR$/task5/RomanToInt.sol" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task--/Voting.sol" beforeDir="false" afterPath="$PROJECT_DIR$/task5/Voting.sol" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,6 +22,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Solidity Contract" />
         <option value="Go File" />
       </list>
     </option>
@@ -46,7 +54,7 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "E:/task/task4/blog-project",
+    "last_opened_file_path": "E:/task",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm"
